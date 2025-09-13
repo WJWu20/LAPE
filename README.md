@@ -1,6 +1,6 @@
 # Bridging the Semantic Gap for Zero-Shot Object Counting with Language-augmented Pseudo-exemplars
 
-<img src="/home/lcc/Downloads/overview.jpg" style="zoom: 75%;" />
+<img src="/assets/overview.jpg" style="zoom: 75%;" />
 
 ### Environment
 
@@ -67,9 +67,9 @@ python test_car.py
 
 ### Visualization
 
-<img src="/home/lcc/Downloads/vis1.jpg" style="zoom: 33%;" />
+<img src="/assets/vis1.jpg" style="zoom: 33%;" />
 
-<img src="/home/lcc/Downloads/vis2.jpg" style="zoom: 26%;" />
+<img src="/assets/vis2.jpg" style="zoom: 26%;" />
 
 ### Acknowledgement
 
